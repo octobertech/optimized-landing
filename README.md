@@ -2,7 +2,7 @@ Super seo & mobile optimized landing template using HTML5, CSS3 animation, Javas
 
 Other sites I developed using this template: 
 
-https://hikes.kz <br>
+<a href="https://hikes.kz" target="_blank">https://hikes.kz</a> <br>
 https://zharkent.asia <br>
 https://charyn.asia <br>
 https://dune.kz <br>
