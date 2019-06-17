@@ -2,8 +2,8 @@ Super seo & mobile optimized landing template using HTML5, CSS3 animation, Javas
 
 Other sites I developed using this template: 
 
-https://hikes.kz
-https://zharkent.asia
-https://charyn.asia
-https://dune.kz
-https://budumamoy.kz
+https://hikes.kz <br>
+https://zharkent.asia <br>
+https://charyn.asia <br>
+https://dune.kz <br>
+https://budumamoy.kz <br>
