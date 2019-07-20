@@ -7,3 +7,4 @@ https://zharkent.asia <br>
 https://charyn.asia <br>
 https://dune.kz <br>
 https://budumamoy.kz <br>
+https://otarbaeva.kz <br>
